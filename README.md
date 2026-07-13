@@ -1,6 +1,6 @@
 # Terraform Registry Module Study — Dataset & Pipeline
 
-Companion repository for the paper *"Terraform Module Ecosystems at Enterprise Scale: An Empirical Study of Public Registry Modules"* (Venkata Sandeep Chowdary Kaza, 2026 — under submission).
+Companion repository for the paper *"Terraform Module Ecosystems at Enterprise Scale: An Empirical Study of Public Registry Modules"* (Venkata Sandeep Chowdary Kaza, 2026). Preprint: [doi:10.5281/zenodo.21347268](https://doi.org/10.5281/zenodo.21347268).
 
 Empirical study of the top 500 Terraform Registry modules by downloads for each of the `aws`, `azurerm`, and `google` providers. **Snapshot date: 2026-07-13** (recorded in every artifact).
 
