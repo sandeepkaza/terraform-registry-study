@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or pipeline, please cite it as below."
+title: "Terraform Registry Study: Dataset and Mining Pipeline for the Top-500 Modules of aws/azurerm/google (Snapshot 2026-07-13)"
+type: dataset
+authors:
+  - family-names: "Kaza"
+    given-names: "Venkata Sandeep Chowdary"
+    orcid: "https://orcid.org/0009-0001-9454-8995"
+repository-code: "https://github.com/sandeepkaza/terraform-registry-study"
+license: MIT
+date-released: "2026-07-14"
+keywords:
+  - terraform
+  - infrastructure as code
+  - software supply chain
+  - mining software repositories
+  - semantic versioning
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21347268"
+    description: "Preprint of the companion paper (v1)."
+preferred-citation:
+  type: article
+  title: "Terraform Module Ecosystems at Enterprise Scale: An Empirical Study of Public Registry Modules"
+  authors:
+    - family-names: "Kaza"
+      given-names: "Venkata Sandeep Chowdary"
+      orcid: "https://orcid.org/0009-0001-9454-8995"
+  year: 2026
+  doi: "10.5281/zenodo.21347268"
